@@ -7,3 +7,17 @@
 我喜歡聽音樂
 
 ![鋒澤](https://s3-ap-northeast-1.amazonaws.com/tw.com.carture/images/800/159747266922.jpg)
+
+```c
+#include <stdio.h>
+int main()
+{
+  printf("Hello World\n");
+}
+```
+
+```enzhang327
+void setup(){
+  background(255);
+  ellipse(200,200,30,30);
+}
